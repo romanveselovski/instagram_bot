@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Служебные артефакты
+login_error.png
+*.png
+config.bat
+node_modules
